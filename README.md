@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Emanuel 👋
+
+I'm an assistant professor at Instituto Superior Técnico ([IST](https://tecnico.ulisboa.pt/en/)) - University of Lisbon.
 
 <!--
 **EmanuelGoncalves/EmanuelGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
